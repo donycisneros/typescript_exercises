@@ -1,0 +1,13 @@
+{
+  "name": "01-fetch",
+  "version": "1.0.0",
+  "description": "Ts exercise with fetch",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "ts-index": "tsc index.ts && node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
